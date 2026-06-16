@@ -14,3 +14,7 @@ First i have to make new repo
 Then, clone that in local machine
 
 Make file then, write and pull.
+
+## Now learning branches
+
+First know about branches.
